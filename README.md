@@ -4,8 +4,8 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/stacklens?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/stacklens/stacklens?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/stacklens/stacklens?style=social)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 <!--
 **losanming/losanming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
