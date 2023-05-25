@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/stacklens/stacklens?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/stacklens/stacklens?style=social)
 
-[![博客搭建交流群](https://img.shields.io/badge/空巢码农QQ群-746622934-red.svg "空巢CV交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![博客搭建交流群](https://img.shields.io/badge/空巢码农QQ群-746622934-red.svg "空巢CV交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "ProjectCV交流群")
 
 [![Mail Badge](https://img.shields.io/badge/-losanming@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:losanming@163.com)](mailto:joeysiwei@gmail.com)
 ---
@@ -18,7 +18,7 @@
 
 - A Ma Nong.
 - 🌱 Currently working in NanJing, China.
-- 💬 Ask me about Golang, TypeScript and my projects on [losanming@163.com](mailto:losanming@163.com)
+- 💬 Ask me about Golang and my projects on [losanming@163.com](mailto:losanming@163.com)
 - ⭐ lol、cf、O批
 - ⚡ Fun fact: Data Analysis📊
 
