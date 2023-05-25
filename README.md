@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=losanming)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=losanming&show_icons=true&theme=noctis_minimus)
+![GitHub followers](https://img.shields.io/github/followers/stacklens?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/stacklens?style=social)
+![GitHub forks](https://img.shields.io/github/forks/stacklens/stacklens?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/stacklens/stacklens?style=social)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
