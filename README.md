@@ -2,10 +2,10 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=losanming&show_icons=true&theme=noctis_minimus)
 
-![GitHub followers](https://img.shields.io/github/followers/stacklens?style=social)
+![GitHub followers](https://img.shields.io/github/followers/losanming?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/stacklens?style=social)
-![GitHub forks](https://img.shields.io/github/forks/stacklens/stacklens?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/stacklens/stacklens?style=social)
+![GitHub forks](https://img.shields.io/github/forks/losanming/losanming?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/losanming/losanming?style=social)
 
 [![博客搭建交流群](https://img.shields.io/badge/空巢码农QQ群-746622934-red.svg "空巢CV交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "ProjectCV交流群")
 
