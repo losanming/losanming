@@ -3,7 +3,7 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=losanming&show_icons=true&theme=noctis_minimus)
 
 ![GitHub followers](https://img.shields.io/github/followers/losanming?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/stacklens?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/losanming?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/losanming/losanming?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/losanming/losanming?style=social)
 
