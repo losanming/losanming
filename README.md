@@ -7,8 +7,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/losanming/losanming?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/losanming/losanming?style=social)
 
-[![博客搭建交流群](https://img.shields.io/badge/空巢码农QQ群-746622934-red.svg "空巢CV交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "ProjectCV交流群")
-
 [![Mail Badge](https://img.shields.io/badge/-losanming@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:losanming@163.com)](mailto:joeysiwei@gmail.com)
 ---
 
